@@ -1,0 +1,80 @@
+body {
+     text-align: center;
+     background-color:coral;
+}
+
+h1 {
+     font-size: 40px;
+     font-family: sans-serif;
+     font-weight: 300;
+}
+
+.line {
+     height: 6px;
+     background-color: #000;
+     width: 70px;
+     margin: 8px auto;
+}
+
+#contact iframe {
+     width: 100%;
+}
+
+.contact_1 h3 {
+     display: inline;
+}
+
+.contact_1 a {
+     text-shadow: none;
+}
+
+
+.my_nav_bar {
+     position: sticky;
+     top: 0;
+     z-index: 99999
+}
+
+input {
+     background: grey;
+}
+
+#PeppaName {
+     color: deeppink;
+     border-style: groove;
+     border-color: mediumspringgreen;
+     border-width: thick;
+     Text-decoration: double underline;
+     text-decoration-color: crimson;
+}
+
+#GPS {
+     background-color: blueviolet;
+     border-style: ridge;
+     border-color: dodgerblue;
+     border-width: thick;
+}
+
+#bar1{
+     background-color:chartreuse;
+     border-color:coral;
+     border-width:thin;
+}
+
+
+#bar2{
+     background-color:cornflowerblue;
+     border-color:fuchsia;
+     border-width:thin;
+}
+
+
+#bar3{
+     background-color:darkcyan;
+     border-color:darkseagreen;
+     border-width:thin;
+}
+
+li{
+     background-color:darkmagenta;
+}
